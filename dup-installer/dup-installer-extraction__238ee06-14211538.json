@@ -1,0 +1,53 @@
+{
+    "CL_-=_-=": "DUP_Extraction",
+    "zip_filetime": "current",
+    "archive_action": "donothing",
+    "archive_engine": "duparchive",
+    "extractonStart": 1692055520.765191,
+    "chunkStart": 1692055531.254546,
+    "root_path": "C:\/xampp\/htdocs\/med_14-08\/",
+    "archive_path": "C:\/xampp\/htdocs\/med_14-08\/med_14082023_238ee06c8b8b383b2877_20230814211538_archive.daf",
+    "ajax1_error_level": 32767,
+    "dawn_status": {
+        "CL_-=_-=": "stdClass",
+        "archive_offset": 40194055,
+        "archive_size": 58100615,
+        "failures": [],
+        "file_index": 4569,
+        "is_done": false,
+        "timestamp": 1692055536
+    },
+    "archive_offset": 0,
+    "do_chunking": false,
+    "chunkedExtractionCompleted": false,
+    "num_files": 0,
+    "sub_folder_archive": "",
+    "max_size_extract_at_a_time": 2097152,
+    "zip_arc_chunk_notice_no": -1,
+    "zip_arc_chunk_notice_change_last_time": 0,
+    "zip_arc_chunks_extract_rates": [],
+    "archive_items_count": 8052,
+    "filters": {
+        "CL_-=_-=": "Duplicator\\Installer\\Core\\Deploy\\Files\\Filters",
+        "files": [
+            "med_14082023_238ee06c8b8b383b2877_20230814211538_installer-backup.php"
+        ],
+        "dirsWithoutChilds": [],
+        "dirs": [
+            "dup-installer"
+        ]
+    },
+    "removeFilters": {
+        "CL_-=_-=": "Duplicator\\Installer\\Core\\Deploy\\Files\\Filters",
+        "files": [
+            "C:\/xampp\/htdocs\/med_14-08\/med_14082023_238ee06c8b8b383b2877_20230814211538_installer-backup.php",
+            "C:\/xampp\/htdocs\/med_14-08\/med_14082023_238ee06c8b8b383b2877_20230814211538_archive.daf",
+            "C:\/xampp\/htdocs\/med_14-08\/installer.php",
+            "C:\/xampp\/htdocs\/med_14-08\/dup-installer-bootlog__e1e5eb9-14211538.txt"
+        ],
+        "dirsWithoutChilds": [],
+        "dirs": [
+            "C:\/xampp\/htdocs\/med_14-08\/dup-installer"
+        ]
+    }
+}

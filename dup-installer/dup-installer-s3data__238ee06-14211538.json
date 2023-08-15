@@ -1,0 +1,83 @@
+{
+    "report": {
+        "pass": 0,
+        "chunk": 1,
+        "chunkPos": {
+            "l0": "final_report",
+            "l1": null,
+            "l2": null
+        },
+        "progress_perc": 100,
+        "scan_tables": 17,
+        "scan_rows": 518,
+        "scan_cells": 3144,
+        "updt_tables": 4,
+        "updt_rows": 75,
+        "updt_cells": 91,
+        "errsql": [],
+        "errser": [],
+        "errkey": [],
+        "errsql_sum": 0,
+        "errser_sum": 0,
+        "errkey_sum": 0,
+        "profile_start": 1692055542.414097,
+        "profile_end": 1692055542.746201,
+        "time": "0.3321 sec.",
+        "err_all": 0,
+        "warn_all": 0,
+        "warnlist": []
+    },
+    "cTableParams": null,
+    "replaceData": [
+        {
+            "id": 0,
+            "prority": 12,
+            "scope": [
+                "___!GLOBAL!___!SCOPE!___"
+            ],
+            "type": "path",
+            "search": "C:\/xampp\/htdocs\/med",
+            "replace": "C:\/xampp\/htdocs\/med_14-08"
+        },
+        {
+            "id": 1,
+            "prority": 12,
+            "scope": [
+                "___!GLOBAL!___!SCOPE!___"
+            ],
+            "type": "path",
+            "search": "C:\/xampp\/htdocs\/med",
+            "replace": "C:\/xampp\/htdocs\/med_14-08"
+        },
+        {
+            "id": 2,
+            "prority": 12,
+            "scope": [
+                "___!GLOBAL!___!SCOPE!___"
+            ],
+            "type": "path",
+            "search": "C:\/xampp\/htdocs\/med",
+            "replace": "C:\/xampp\/htdocs\/med_14-08"
+        },
+        {
+            "id": 3,
+            "prority": 12,
+            "scope": [
+                "___!GLOBAL!___!SCOPE!___"
+            ],
+            "type": "urlnd",
+            "search": "http:\/\/localhost\/med",
+            "replace": "http:\/\/localhost\/med_14-08"
+        },
+        {
+            "id": 4,
+            "prority": 12,
+            "scope": [
+                "___!GLOBAL!___!SCOPE!___"
+            ],
+            "type": "urlnd",
+            "search": "http:\/\/localhost\/med",
+            "replace": "http:\/\/localhost\/med_14-08"
+        }
+    ]
+}
