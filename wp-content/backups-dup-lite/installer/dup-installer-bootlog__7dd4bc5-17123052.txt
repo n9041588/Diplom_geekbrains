@@ -1,0 +1,40 @@
+[Aug 17 17:38:35] 
+[Aug 17 17:38:35] ==DUPLICATOR INSTALLER BOOTSTRAP v1.5.5.1==
+[Aug 17 17:38:35] ----------------------------------------------------
+[Aug 17 17:38:35] Installer bootstrap start
+[Aug 17 17:38:35] Ready to extract the installer
+[Aug 17 17:38:35] Checking permission of destination folder
+[Aug 17 17:38:35] Expand directory from offset 58633809
+[Aug 17 17:38:36] [PHP ERR][ISSUE] MSG:Creation of dynamic property DUPX_Bootstrap::$extractionTmpFolder is deprecated [CODE:8192|FILE:C:\xampp\htdocs\med\installer.php|LINE:99]
+[Aug 17 17:38:36] ==DUPLICATOR INSTALLER BOOTSTRAP v1.5.5.1==
+[Aug 17 17:38:36] ----------------------------------------------------
+[Aug 17 17:38:36] Installer bootstrap start
+[Aug 17 17:38:36] EXTRACT dup-installer dir
+[Aug 17 17:38:36] Ready to extract the installer
+[Aug 17 17:38:36] Checking permission of destination folder
+[Aug 17 17:38:36] Expand directory from offset 58633809
+[Aug 17 17:38:36] [ERROR] Error expanding installer subdirectory:MD5 validation fails for C:/xampp/htdocs/med/dup-installer/assets/fonts/dots/dotsfont.eot
+[Aug 17 17:38:36] [PHP ERR][ISSUE] MSG:Creation of dynamic property DUPX_Bootstrap::$extractionTmpFolder is deprecated [CODE:8192|FILE:C:\xampp\htdocs\med\installer.php|LINE:99]
+[Aug 17 17:38:50] No need to create dup-installer/.htaccess or dup-installer/.user.ini
+[Aug 17 17:38:50] SAPI: apache2handler
+[Aug 17 17:38:50] [PHP ERR][ISSUE] MSG:Creation of dynamic property DUPX_Bootstrap::$archive is deprecated [CODE:8192|FILE:C:\xampp\htdocs\med\installer.php|LINE:529]
+[Aug 17 17:38:50] [PHP ERR][ISSUE] MSG:Creation of dynamic property DUPX_Bootstrap::$bootloader is deprecated [CODE:8192|FILE:C:\xampp\htdocs\med\installer.php|LINE:530]
+[Aug 17 17:38:50] Set permissions of dup-installer<br/>
+[Aug 17 17:38:50] Set permissions of dup-installer/addons<br/>
+[Aug 17 17:38:50] Set permissions of dup-installer/assets<br/>
+[Aug 17 17:38:50] Set permissions of dup-installer/classes<br/>
+[Aug 17 17:38:50] Set permissions of dup-installer/ctrls<br/>
+[Aug 17 17:38:50] Set permissions of dup-installer/favicon<br/>
+[Aug 17 17:38:50] Set permissions of dup-installer/libs<br/>
+[Aug 17 17:38:50] Set permissions of dup-installer/original_files_[HASH]<br/>
+[Aug 17 17:38:50] Set permissions of dup-installer/src<br/>
+[Aug 17 17:38:50] Set permissions of dup-installer/templates<br/>
+[Aug 17 17:38:50] Set permissions of dup-installer/vendor<br/>
+[Aug 17 17:38:50] Set permissions of dup-installer/dup-archive__[HASH].txt<br/>
+[Aug 17 17:38:50] Set permissions of dup-installer/dup-scan__[HASH].json<br/>
+[Aug 17 17:38:50] Set permissions of dup-installer/dup-scanned-dirs__[HASH].txt<br/>
+[Aug 17 17:38:50] Set permissions of dup-installer/dup-scanned-files__[HASH].txt<br/>
+[Aug 17 17:38:50] Set permissions of dup-installer/index.php<br/>
+[Aug 17 17:38:50] Set permissions of dup-installer/main.installer.php<br/>
+[Aug 17 17:38:50] DONE: No detected errors so redirecting to the main installer. Main Installer URI = http://localhost/med/dup-installer/main.installer.php
+[Aug 17 17:38:50] [PHP ERR][ISSUE] MSG:Creation of dynamic property DUPX_Bootstrap::$extractionTmpFolder is deprecated [CODE:8192|FILE:C:\xampp\htdocs\med\installer.php|LINE:99]
